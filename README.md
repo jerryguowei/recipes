@@ -4,7 +4,10 @@ This project is a recipe app which will use Angular 6 for the front-end part.
 
 The backend is currently just use firebase to supply the database and authentication
 
-
+To view the Project, just click below
+<a href="http://jerry-app-deployment.s3-website-ap-southeast-2.amazonaws.com/recipes" >
+Recipes Static Helding
+</a>
 To download the front end.
 
 just npm install and ng serve
