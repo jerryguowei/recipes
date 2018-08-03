@@ -2,7 +2,7 @@
 
 This project is a recipe app which will use Angular 6 for the front-end part. 
 
-Spring root as the backend(unfinished)
+The backend is currently just use firebase to supply the database and authentication
 
 
 To download the front end.

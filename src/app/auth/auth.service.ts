@@ -1,7 +1,7 @@
 import * as firebase  from 'firebase/app';
 import 'firebase/auth';
-import { Injectable } from '../../../node_modules/@angular/core';
-import { Router } from '../../../node_modules/@angular/router';
+import { Injectable } from '@angular/core';
+import { Router } from '@angular/router';
 @Injectable()
 export class AuthService{
     constructor(private router:Router){
